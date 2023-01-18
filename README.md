@@ -31,30 +31,31 @@ find new dimensions which will help with clustering.
 # Results and analysis of the solution
 We observed that the products that were sold the most:
 1.fresh fruits
+
 2.fresh vegetables
+
 3.packaged vegetables fruits
+
 4.yogurt
+
 5.packaged cheese
+
 6.milk
+
 7.water seltzer sparkling water
+
 8.chips pretzels
 
-▪
-What we can inspect here is if clusters differ in quantities and proportions, with
-respect of these goods, or if a cluster is characterized by some goods not included in
-this list. For instance we can already see cluster 3 is characterized by 'Baby Food
-Formula' product which is a significant difference with respect to the other clusters.
-▪
 The following can be said about the customer behaviour of different clusters by looking
 at the results:
-▪
-People of cluster 1 buy more fresh vegetables than the other clusters.
-▪
-Cluster 1 is also the cluster including those customers buying far more goods than any
+
+▪People of cluster 1 buy more fresh vegetables than the other clusters.
+
+▪Cluster 1 is also the cluster including those customers buying far more goods than any
 others.
-▪
-People of cluster 2 buy more yogurt than people of the other clusters.
-▪
-P eople of cluster 3 buy a Lot of 'Baby Food Formula' which not even listed in the top 8
+
+▪People of cluster 2 buy more yogurt than people of the other clusters.
+
+▪People of cluster 3 buy a Lot of 'Baby Food Formula' which not even listed in the top 8
 products but mainly characterize this cluster. With this observation we can safely
 assume they buy more milk than the others.
