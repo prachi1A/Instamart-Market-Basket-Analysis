@@ -30,6 +30,7 @@ find new dimensions which will help with clustering.
 •We will then try to find possible interpretation for the identified clusters.
 # Results and analysis of the solution
 We observed that the products that were sold the most:
+
 1.fresh fruits
 
 2.fresh vegetables
